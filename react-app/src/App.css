@@ -1,5 +1,10 @@
 .App {
-  text-align: left;;
+  text-align: center;
+  color: fuchsia;
+}
+.NavBar {
+  text-align: left;
+  color:green;
 }
 
 
